@@ -11,7 +11,10 @@ I'll explain the
 
 let's start our discussion with what is the load balancer or what does it offer? 
 
-https://cdn-images-1.medium.com/max/720/0*JQtk4B9CW7F6n-IQ.jpeg
+
+
+![image](https://github.com/chrahul/OracleCloudConcepts/assets/14847377/478ce01c-ff9f-4bbf-9e83-261a70f9d421)
+
 
 
 
