@@ -1,0 +1,20 @@
+Here I'm going to duscuss Oracle Cloud Security Professional.
+We will covering all the topics that are part of the Exam 1Z0–1104–23: Oracle Cloud Infrastructure 2023 Security Professional.
+
+- OCI Security Introduction
+    -- What is Share Responsibility model
+    --  Zero Trus Policy
+    -- Overview of Security Services
+    -- Security Design and Controls
+
+- OCI Identity and Access Management
+  -- What is IAM
+  -- Identity Domains
+  -- AuthN and AuthZ
+  -- IAM User, Groups, Compartments and  policies
+  -- Conditional Policies, Network Sources
+  -- Dynamic Groups
+  -- Federation and Other Sign-In-Options
+  -- Organization Management
+
+- 
